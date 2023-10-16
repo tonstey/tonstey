@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tonstey
+- 👋 Hi, I’m Tony Vuong
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Email: tonyvuong245@gmail.com
 
