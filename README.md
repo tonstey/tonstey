@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Power Rangers, Teamfight Tactics, Pokemon, and Disney/Nickelodeon shows from 2005-2014!**
 
-- 📫 How to reach me **tonyvuong245@gmail.com**
+- 📫 How to reach me **tonyvuong.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
