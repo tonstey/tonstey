@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony Vuong</h1>
 <h3 align="center">A passionate full-stack developer from Garden Grove, CA</h3>
 
-- 🔭 I’m currently working on [a receipt-saver project with OCR technology and web scraping](cartcompass.vercel.app)
+- 🔭 I’m currently working on [an app that can recommend recipes based on what is in your pantry and what you have previously liked!]()
 
 - 🌱 I’m currently learning **FastAPI, Docker, Kubernetes**
 
